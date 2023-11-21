@@ -181,6 +181,12 @@ build CMakeFiles/CLion.dir/dataStructure/SortAlgorithm.c.obj: C_COMPILER__CLion_
   OBJECT_DIR = CMakeFiles\CLion.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion.dir\dataStructure
 
+build CMakeFiles/CLion.dir/cTry.c.obj: C_COMPILER__CLion_unscanned_Debug C$:/Users/ljx/Desktop/study/C/CLion/cTry.c || cmake_object_order_depends_target_CLion
+  DEP_FILE = CMakeFiles\CLion.dir\cTry.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CLion.dir
+  OBJECT_FILE_DIR = CMakeFiles\CLion.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CLion
@@ -189,7 +195,7 @@ build CMakeFiles/CLion.dir/dataStructure/SortAlgorithm.c.obj: C_COMPILER__CLion_
 #############################################
 # Link the executable CLion.exe
 
-build CLion.exe: C_EXECUTABLE_LINKER__CLion_Debug CMakeFiles/CLion.dir/main.c.obj CMakeFiles/CLion.dir/demo.c.obj CMakeFiles/CLion.dir/LeetCode.c.obj CMakeFiles/CLion.dir/dataStructure/dataStructure.c.obj CMakeFiles/CLion.dir/dataStructure/DoubleLoopLinkedList.c.obj CMakeFiles/CLion.dir/dataStructure/SingleLinkedList.c.obj CMakeFiles/CLion.dir/dataStructure/DoubleLinkedList.c.obj CMakeFiles/CLion.dir/dataStructureTest.c.obj CMakeFiles/CLion.dir/tools.c.obj CMakeFiles/CLion.dir/dataStructure/Stack.c.obj CMakeFiles/CLion.dir/dataStructure/Queue.c.obj CMakeFiles/CLion.dir/dataStructure/CircularQueues.c.obj CMakeFiles/CLion.dir/dataStructure/StringKMP.c.obj CMakeFiles/CLion.dir/dataStructure/BinaryTree.c.obj CMakeFiles/CLion.dir/dataStructure/InThreadTree.c.obj CMakeFiles/CLion.dir/dataStructure/PreThreadTree.c.obj CMakeFiles/CLion.dir/dataStructure/PostThreadTree.c.obj CMakeFiles/CLion.dir/dataStructure/BinarySearchTree.c.obj CMakeFiles/CLion.dir/dataStructure/AVGBinaryTree.c.obj CMakeFiles/CLion.dir/dataStructure/HuffManTree.c.obj CMakeFiles/CLion.dir/dataStructure/RedBlackTree.c.obj CMakeFiles/CLion.dir/dataStructure/SortAlgorithm.c.obj
+build CLion.exe: C_EXECUTABLE_LINKER__CLion_Debug CMakeFiles/CLion.dir/main.c.obj CMakeFiles/CLion.dir/demo.c.obj CMakeFiles/CLion.dir/LeetCode.c.obj CMakeFiles/CLion.dir/dataStructure/dataStructure.c.obj CMakeFiles/CLion.dir/dataStructure/DoubleLoopLinkedList.c.obj CMakeFiles/CLion.dir/dataStructure/SingleLinkedList.c.obj CMakeFiles/CLion.dir/dataStructure/DoubleLinkedList.c.obj CMakeFiles/CLion.dir/dataStructureTest.c.obj CMakeFiles/CLion.dir/tools.c.obj CMakeFiles/CLion.dir/dataStructure/Stack.c.obj CMakeFiles/CLion.dir/dataStructure/Queue.c.obj CMakeFiles/CLion.dir/dataStructure/CircularQueues.c.obj CMakeFiles/CLion.dir/dataStructure/StringKMP.c.obj CMakeFiles/CLion.dir/dataStructure/BinaryTree.c.obj CMakeFiles/CLion.dir/dataStructure/InThreadTree.c.obj CMakeFiles/CLion.dir/dataStructure/PreThreadTree.c.obj CMakeFiles/CLion.dir/dataStructure/PostThreadTree.c.obj CMakeFiles/CLion.dir/dataStructure/BinarySearchTree.c.obj CMakeFiles/CLion.dir/dataStructure/AVGBinaryTree.c.obj CMakeFiles/CLion.dir/dataStructure/HuffManTree.c.obj CMakeFiles/CLion.dir/dataStructure/RedBlackTree.c.obj CMakeFiles/CLion.dir/dataStructure/SortAlgorithm.c.obj CMakeFiles/CLion.dir/cTry.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CLion.dir

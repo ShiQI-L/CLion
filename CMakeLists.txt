@@ -22,4 +22,5 @@ add_executable(CLion main.c demo.c LeetCode.c dataStructure/dataStructure.c
         dataStructure/HuffManTree.c
         dataStructure/RedBlackTree.c
         dataStructure/SortAlgorithm.c
+        cTry.c
 )
